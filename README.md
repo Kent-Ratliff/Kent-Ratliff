@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kent-Ratliff
-- 👀 I’m interested in Data analysis and visualizations, Full stack development, 
-- 🌱 I’m currently learning python pandas library, d3.js
-- 💞️ I’m looking to collaborate on maps, charts, and visualizations of interesting datasets
+-  Hi, I’m @Kent-Ratliff
+-  I’m interested in Data analysis and visualizations, Geospatial software engineering and machine learning solutions, 
+-  Proficient in python+pandas/matplotlib/numpy/ Javascript+Node/d3/React, C++, Java, R
+-  
 - 📫 kentonratliff@gmail.com
 
